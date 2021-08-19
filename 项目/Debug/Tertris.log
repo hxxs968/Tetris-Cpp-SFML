@@ -1,0 +1,15 @@
+﻿  main.cpp
+D:\workplace\C++\Tertris\main.cpp(31,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\workplace\C++\Tertris\main.cpp(33,24): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\workplace\C++\Tertris\main.cpp(34,26): warning C4305: “初始化”: 从“double”到“const float”截断
+D:\workplace\C++\Tertris\main.cpp(215,68): warning C4305: “=”: 从“double”到“float”截断
+D:\workplace\C++\Tertris\main.cpp(216,73): warning C4305: “=”: 从“double”到“float”截断
+D:\workplace\C++\Tertris\main.cpp(515,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(515,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(522,43): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(522,30): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(530,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(530,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(538,44): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\workplace\C++\Tertris\main.cpp(538,31): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Tertris.vcxproj -> D:\workplace\C++\Tertris\Debug\Tertris.exe

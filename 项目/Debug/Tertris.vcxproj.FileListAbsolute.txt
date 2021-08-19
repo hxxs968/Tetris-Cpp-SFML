@@ -1,0 +1,2 @@
+D:\workplace\C++\Tertris\Debug\Tertris.exe
+D:\workplace\C++\Tertris\Debug\Tertris.pdb
