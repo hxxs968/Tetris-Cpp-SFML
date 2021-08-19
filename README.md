@@ -2,16 +2,15 @@
 C++ project,SFML,嘉然Diana
 ----- 
 ## 基本信息
-__环境：__visual studio 2019
-__框架：__SFML
+__环境：__ visual studio 2019
+__框架：__ SFML
 ## 环境配置
-1.下载安装vs2019
-2.下载SFML
-  下载https://www.sfml-dev.org/download/sfml/2.5.1/ [^建议选择32bit版]
-3.安装教程
-  [中文](https://blog.csdn.net/vastz/article/details/109691535)
-  [b站视频教程](https://www.bilibili.com/video/av80956260)
-  [官方英文](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
+1.下载安装vs2019  
+2.下载SFML  https://www.sfml-dev.org/download/sfml/2.5.1/ [^建议选择32bit版]  
+3.安装教程  
+  + [中文](https://blog.csdn.net/vastz/article/details/109691535)
+  + [b站视频教程](https://www.bilibili.com/video/av80956260)
+  + [官方英文](https://www.sfml-dev.org/tutorials/2.5/start-vc.php)
  ## 说明
  * 项目文件已包含SFML安装教程中提到的bin目录中需要复制到工程文件夹内的dll文件，也包含所有图片、声音素材，可直接运行项目
  * main.cpp中有详细注释，如初次接触小游戏编写（期末作业）请参考https://blog.csdn.net/qq_33567644/article/details/91126507
